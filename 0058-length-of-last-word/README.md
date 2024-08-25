@@ -16,7 +16,7 @@
 <pre>
 <strong>Input:</strong> s = &quot;   fly me   to   the moon  &quot;
 <strong>Output:</strong> 4
-<strong>Explanation:</strong> The last word is &quot;moon&quot; with length 4.
+<strong>Explanation:</strong> The last word is &quot;moon&quot; with length 4. 
 </pre>
 
 <p><strong class="example">Example 3:</strong></p>
