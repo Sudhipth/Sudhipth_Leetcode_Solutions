@@ -1,4 +1,4 @@
-class Solution {
+ class Solution {
     public int returnToBoundaryCount(int[] nums) {
         int sum=0;
         int count=0;
