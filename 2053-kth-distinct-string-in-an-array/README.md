@@ -10,7 +10,7 @@
 <pre>
 <strong>Input:</strong> arr = [&quot;d&quot;,&quot;b&quot;,&quot;c&quot;,&quot;b&quot;,&quot;c&quot;,&quot;a&quot;], k = 2
 <strong>Output:</strong> &quot;a&quot;
-<strong>Explanation:</strong>
+<strong>Explanation:</strong> 
 The only distinct strings in arr are &quot;d&quot; and &quot;a&quot;.
 &quot;d&quot; appears 1<sup>st</sup>, so it is the 1<sup>st</sup> distinct string.
 &quot;a&quot; appears 2<sup>nd</sup>, so it is the 2<sup>nd</sup> distinct string.
