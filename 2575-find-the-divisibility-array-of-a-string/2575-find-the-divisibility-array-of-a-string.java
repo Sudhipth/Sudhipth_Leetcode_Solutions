@@ -8,11 +8,12 @@ class Solution {
         {
             c = c * 10 + (word.charAt(i) - '0');
             c %= m;
-            if(n%m==0)
+            if(c%m==0)
             {
                 arr[j-1]=1;
             }
             j++;
+            i++;
         }
         return arr;
     }
